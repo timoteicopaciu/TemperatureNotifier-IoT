@@ -1,5 +1,5 @@
 # Simple temperature measurement
-The Temperature Notifier sample demonstrates how to use IoT in order to create a "smart" termometer that send to you informations about temperature and humidity, whenever you want, wherever you are(if you have internet connnection, of course☺). The sample take the request from the user, read temperature and humidity through the sensor and send the information about temperature and humidity as a notification on device.
+The Temperature Notifier sample demonstrates how to use IoT in order to create a "smart" thermometer that send to you informations about temperature and humidity, whenever you want, wherever you are(if you have internet connnection, of course☺). The sample take the request from the user, read temperature and humidity through the sensor and send the information about temperature and humidity as a notification on device.
 
 ## Schematics 
 
